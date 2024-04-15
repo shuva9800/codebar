@@ -13,7 +13,8 @@
 .hero-section{
     width: 100%;
     height: auto;
-    background-image: url("./image/tech1.jpg");
+    background-image: url("./image/tech4.jpg");
+    background-size: cover;
     position : relative;
     display: flex;
     flex-direction: column;

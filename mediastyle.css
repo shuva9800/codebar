@@ -1,0 +1,43 @@
+@media screen and (min-width: 1920px){
+ .wrapper{
+    margin: 0 auto;
+    max-width: 1920px;
+ }
+
+}
+@media screen and (max-width: 990px){
+   .hero-section-items{
+      display: none;
+   }
+   .btn{
+      display: none;
+   }
+   .threebar{
+    display: block;
+   } 
+   nav{
+    justify-content: space-around;
+   }
+   .img-div{
+     width: 4rem;
+     height: 2rem;
+   } 
+   .hero-middle-section{
+      padding: 12rem 2rem 2.5rem;
+   }
+}
+@media screen and (max-width:540px){
+   .threebar{
+      height: 2rem;
+      width: 2rem;
+   }
+   .hero-middle-section{
+      padding: 9rem 2rem 2.5rem;
+   }
+   h1,h2{
+      font-size: 3rem;
+   }
+   .side-bar-heading{
+      font-size: 3rem;
+   }
+}

@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    font-family: "Kanit", sans-serif;
    
 }
 .wrapper{
@@ -11,7 +12,8 @@
 }
 .hero-section{
     width: 100%;
-    background-image: url("./image/tech2.jpg");
+    height: auto;
+    background-image: url("./image/tech1.jpg");
     position : relative;
     display: flex;
     flex-direction: column;

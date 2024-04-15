@@ -102,10 +102,11 @@ a{
     display: flex;
     flex-direction: column;
 }
-h1,h2{
+h2{
     font-size: 5rem;
     font-weight: 400;
     color: white;
+    line-height: 1;
 }
 .button-div{
     display: flex;

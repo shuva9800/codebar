@@ -25,6 +25,9 @@
    .hero-middle-section{
       padding: 12rem 2rem 2.5rem;
    }
+   .video-description-heading{
+      font-size: 2.5rem;
+   }
 }
 @media screen and (max-width:540px){
    .threebar{
@@ -40,4 +43,15 @@
    .side-bar-heading{
       font-size: 3rem;
    }
+   .video-section{
+      padding: 2rem 2rem;
+      grid-template-columns: repeat(1,1fr);
+   }
+   .video-description{
+      gap: 1.4rem;
+   }
+   .video-description-heading{
+      font-size: 2rem;
+   }
+ 
 }
